@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00c5773a-9aca-4e69-8cc0-6ef994f66047" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gradle.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aapiro/javapatterns/decorator/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aapiro/javapatterns/decorator/DecoradorFigura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aapiro/javapatterns/decorator/DecoradorFiguraRoja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aapiro/javapatterns/decorator/DemoPatronDecorador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aapiro/javapatterns/decorator/Figura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aapiro/javapatterns/decorator/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JetBrains.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -46,11 +40,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/aapiro/javapatterns/decorator/Figura.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JetBrains.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -153,6 +156,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/aapiro/javapatterns/decorator/DecoradorForma.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/aapiro/javapatterns/decorator/DecoradorFigura.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/aapiro/javapatterns/decorator/Figura.java" />
+        <option value="$PROJECT_DIR$/JetBrains.gitignore" />
       </list>
     </option>
   </component>
@@ -174,29 +178,29 @@
         <subPane>
           <expand>
             <path>
-              <item name="java-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-com.aapiro.javapatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="patterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="java-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-com.aapiro.javapatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="patterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="java-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-com.aapiro.javapatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="patterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="java-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-com.aapiro.javapatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="patterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="java-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-com.aapiro.javapatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="patterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -213,7 +217,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566969680112" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566970153098" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -260,25 +264,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566963133868</updated>
-      <workItem from="1566963139797" duration="5246000" />
+      <workItem from="1566963139797" duration="5553000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5246000" />
+    <option name="totallyTimeSpent" value="5553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="953" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30186608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30186608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
@@ -380,7 +385,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/aapiro/javapatterns/decorator/Figura.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JetBrains.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
         </state>
       </provider>
     </entry>
